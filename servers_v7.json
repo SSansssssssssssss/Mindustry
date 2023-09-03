@@ -64,6 +64,10 @@
     "address": ["c-n.ddns.net:7012", "c-n.ddns.net:7013", "c-n.ddns.net:7014", "c-n.ddns.net:7015", "c-n.ddns.net:7016", "c-n.ddns.net:7017"]
   },
   {
+    "name": "Unidustry",
+    "address": ["51.81.57.217:33703"]
+  },
+  {
     "name": "io",
     "address": ["mindustry.io.community", "mindustry.io.community:1000", "mindustry.io.community:2000", "mindustry.io.community:3000", "mindustry.io.community:4000", "labs.io.community"]
   },
